@@ -78,4 +78,6 @@ echo scan the qr code and enjoy bot
 
 
 # > THANKS FOR CHOOSING SaYu BoT-MD WE APPRECIATE YOU FOR YOUR SUPPORT
+
+# > THANKS FOR VIHAGA VT
  

@@ -1,8 +1,8 @@
 {
   "name": "SaYu-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/vihangayt0/Astro-MD-V2",
-  "logo": "",
+  "repository": "https://github.com/sayubot1/-SaYu-MD-",
+  "logo": "https://telegra.ph/file/26cc73c744897622ff45c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
   

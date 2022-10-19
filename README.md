@@ -19,11 +19,11 @@
 
 > A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
 > 
-## DONT FORGET TO GIVE A STAR🌟 AND FORK
+## DONT FORGET TO GIVE A STAR🌟
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayubot1/-SaYuBoT-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayubot1/-SaYu-MD-)
 
 ## BUILD PACKS
 
@@ -33,7 +33,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RavishkaSathsar/SaYu-BoT-MD-QR?)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RavishkaSathsar/SaYu-MD-1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
  ##  > THIS BOT CODED BY DRIPS MEMES SaYu BoT-MD 
@@ -51,7 +51,7 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/sayubot1/-SaYuBoT-
+git clone https://github.com/sayubot1/-SaYu-MD-
  
 cd SaYu BoT-MD-v1
 
